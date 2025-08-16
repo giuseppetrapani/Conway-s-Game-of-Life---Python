@@ -1,6 +1,10 @@
 # Conway's Game of Life
 Questa è un'implementazione del Gioco della Vita di Conway, un automa cellulare a zero giocatori. Il gioco si svolge su una griglia di celle quadrate, ognuna delle quali può essere in due stati: viva o morta. La griglia evolve in base a un set di regole semplici che governano la morte, la sopravvivenza e la nascita delle celle.
 
+
+<img src="screencast.webp?loop=1" alt="webp">
+
+
 ## Caratteristiche Principali
 - Griglia di gioco dinamica: La simulazione si evolve in tempo reale nel terminale.
 - Stato iniziale casuale: La griglia viene inizializzata con un'alta varietà di modelli.
